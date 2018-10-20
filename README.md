@@ -1,0 +1,1 @@
+This repository is a website on which you can play **Connect Four** with another player
